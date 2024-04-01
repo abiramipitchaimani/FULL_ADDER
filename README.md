@@ -1,7 +1,7 @@
 # FULL_ADDER
 
 ## AIM:
-To simulate and synthesis Half adder using Xilinx ISE.
+To simulate and synthesis full adder using Xilinx ISE.
 ## APPARATUS REQUIRED: 
 Xilinx 14.7 Spartan6 FPGA
 ## PROCEDURE: 
@@ -55,6 +55,6 @@ P.ABIRAMI
 # OUTPUT:
 ![Screenshot 2024-03-17 203854](https://github.com/abiramipitchaimani/FULL_ADDER/assets/163704307/adc605ef-887c-4383-a998-4a22efef9c69)
 # RESULT:
-Hence, the stimulation and synthesis of a half adder was run successfully by using Xilinx ISE.
+Hence, the stimulation and synthesis of a full adder was run successfully by using Xilinx ISE.
 
 
